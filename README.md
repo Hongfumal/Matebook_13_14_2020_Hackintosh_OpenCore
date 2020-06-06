@@ -15,12 +15,12 @@ English | [简体中文](https://github.com/Zero-zer0/Matebook_13_14_2020_Hackin
 |SSD | SAMSUNG PM981 <br> WDC PC SN730 </br> Toshiba XG6 |
 | LCD | 2160*1440|
 |SMBIOS | MacBookPro 15,4|
-| BIOS | 1.10 </br>(**some exist problem in v1.12**)|
+| BIOS | 1.10 </br>(**some problem exist in v1.12**)|
 --------
-### ⚠️I DON"T own this laptop. 
+### ⚠️I DON‘T have this laptop. 
 ### ⚠️The repo is created out of interest.
 ### ⚠️PR, Fork, issue are welcomed though I won't fix😝
-### ⚠️BTW, FUCK ~~macx.top~~ for they steal the repos on GitHub and ask for pay on their own website. Shame!
+### ⚠️BTW, F**K ~~macx.top~~ for they steal the repos on GitHub and ask for pay on their own website. Shame!
 
 - Note: **Huawei just squeeze some toothpaste to upgrade Matebook 13/14, this repo may not help you with the boot issue on other Comet Lake platform laptops.**
 
